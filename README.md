@@ -1,4 +1,4 @@
-#🚀 Kaggle Competitions 🎯 
+**🚀 Kaggle Competitions 🎯** 
 
 This repository showcases the notebooks I create along my **Kaggle journey**! 📊📖  
 
